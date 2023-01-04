@@ -1,0 +1,33 @@
+#sell{
+    color: red;
+}
+
+#logo{
+    width: 65px;
+    height: 65px;
+
+    
+    
+   
+}
+#logo-cart{
+    width: 35px;
+    display: flex;
+    background-color:#F59E0D;
+    border-radius: 5px;
+    /* height: 35px; */
+    
+}
+
+
+#main{
+    margin-left:190px;
+}
+
+/* #right-div{
+   justify-content: space-between;
+} */
+
+body{
+    background-color: #F9F9F9;
+}

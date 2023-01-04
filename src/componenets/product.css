@@ -1,0 +1,35 @@
+.big-footer {
+  margin-top: -20px;
+}
+
+.p-tag {
+  margin-top: 20px;
+  display: flex;
+  font-size: 20px;
+  padding: 5px;
+  color: white;
+}
+
+.content{
+    color:white;margin:20px;margin-top:20px;padding-top:15px
+}
+
+.main{
+    display:flex;flex-direction:row;margin-left:120px
+}
+.main1{
+    color:white;width:380px;height:300px;margin-left:30px;margin-top:40px;
+                 display:flex;flex-direction:column;box-shadow: 1px 0px 8px 0px rgb(147, 144, 144);
+}
+
+.m-h1{
+    color:blue;margin-left:50px
+}
+.j{
+    margin-top:20px;margin-left:60px
+}
+
+
+
+
+
